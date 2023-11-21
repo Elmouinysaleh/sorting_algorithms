@@ -1,5 +1,8 @@
 # 0x1B. C - Sorting algorithms & Big O
 
+## 15 Sorting algorithms in 6 min !
+
+
 ## *Resources:*
 
 Read or watch:
