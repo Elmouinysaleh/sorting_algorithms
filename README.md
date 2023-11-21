@@ -1,6 +1,9 @@
 # 0x1B. C - Sorting algorithms & Big O
 
-## 15 Sorting algorithms in 6 min !
+
+
+![1_8Wh8KHhTWlhKOd8fvNCl1A](https://github.com/Elmouinysaleh/sorting_algorithms/assets/36488900/9ce2d743-34a0-4312-977c-ac844e9c7427)
+
 
 
 ## *Resources:*
